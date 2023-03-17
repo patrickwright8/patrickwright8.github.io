@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: patrick wright works AT gmail DOT com (remove spaces)" # url: 
+      url: "mailto:patrickwrightworks[at]gmail[dot]com" # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
