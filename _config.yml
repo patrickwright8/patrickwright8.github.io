@@ -20,7 +20,7 @@ title                    : "Patrick Wright"
 title_separator          : "-"
 subtitle                 :  "" # site tagline that appears below site title in masthead
 name                     : "Patrick Wright"
-description              : "Researcher applying machine learning to chemical engineering and materials development."
+description              : "Applying machine learning to accelerate chemical engineering and materials development."
 url                      : "https://www.patrick-wright.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "patrickwright8/patrickwright8.github.io" # GitHub username/repo-name 
