@@ -107,14 +107,14 @@ author:
   name             : "Patrick Wright"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Applying ML to accelerate research and development."
-  location         : "Boston, MA"
+  location         : "Cambridge, MA"
   github         : "patrickwright8"
   linkedin         : "patrick-wright-8a212917a"
-  #email         : "patrickwrightworks@gmail.com"
+  #email         : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:patrick[at]patrick-wright[dot]net" # url: 
+      url: "mailto:info@patrick-wright.net" # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
