@@ -1,0 +1,11 @@
+---
+title:  "Predicting Toxicity using Graph Neural Networks"
+---
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+30% of candidate pharmaceutical compounds must be abandoned after clinical trials due to unexpected toxicity. This results in wasted funding and misallocated resources, which prevents more promising drugs from being developed. This problem is especially prevalent with small molecule drugs, which tend to be less targeted than protein-based drugs, such as monoclonal antibodies.
+<br><br>
+This post will give an overview of how graph neural networks can predict toxicity of small molecules in a number of different toxicological assays, using the [Tox21 dataset] [1]. I'll also visualize the distribution of these molecules in chemical space and show relationships between chemical structure and toxicity.
+
+
+
+[1]: https://tripod.nih.gov/tox21/challenge/
