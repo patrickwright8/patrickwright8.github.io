@@ -6,9 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: /assets/images/splash1.png
-excerpt: "Stay tuned! More to come soon..."
+#excerpt: ""
 intro: 
-  - excerpt: "Here is an overview of some of my current projects. Outside of these specific areas, I also work on how predictive ML can be used to improve and understand processes in industry. I'm always interested in how novel technologies can be commercialized and what business models may be needed to do so."
+  #- excerpt: ""
 feature_row:
   - image_path: assets/images/gflownet.png
     alt: "GFlowNet"
